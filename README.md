@@ -1,2 +1,0 @@
-# BasicJSProjects
-Basic JavaScript Projects
